@@ -2,6 +2,6 @@
 
 # Description
 
-# Dependecies
+# Dependencies
 
 # About UMSATS
