@@ -9,4 +9,4 @@ This software is built on Node.js, which needs to be [installed](https://nodejs.
 - [https](https://nodejs.org/api/https.html) (Node.js https api)
 - The data used in this software is from the [N2YO API](https://www.n2yo.com/api/)
 # About UMSATS
-UMSATS is a student driven group that works to build 3U nanosatellites to compete in the Canadian Satellite Design Challenge (CSDC). Our website can be found here: http://www.umsats.ca/
+UMSATS is a University of Manitoba student group that works to design and build 3U nanosatellites to compete in the Canadian Satellite Design Challenge (CSDC). Our website can be found here: http://www.umsats.ca/
