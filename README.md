@@ -1,4 +1,4 @@
-# Satellite Tracking for TSAT5
+# Satellite Tracking for TSAT5 Ground Station
 
 # Description
 This repository contains software for tracking the ISS and predicting satellite passes to be used for radio communication over an observer's location. The quality of the pass is defined by the highest elevation during the pass, which is a user-defined parameter.
