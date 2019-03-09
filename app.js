@@ -7,7 +7,7 @@ const baseURL = 'https://www.n2yo.com/rest/v1/satellite/',
       tleRequest = 'tle/',
       noradID = '25544',
       radioPassRequest = 'radiopasses/',
-      apiKey = 'XPXKVU-9V99WV-JZYX84-3YBP';
+      apiKey = //obtain api key from n2yo.com/api;
 
 //Initialize API request variables with global access
 var observerLat,
